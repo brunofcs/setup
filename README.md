@@ -77,6 +77,11 @@ Get dir from backup
 
 ## Zsh Terminal
 
-Configure Zsh with:
+Zsh [http://www.zsh.org/](http://www.zsh.org/)
+
+Plugin oh-my-zsh:
 [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+Shell highlighting plugin
+[https://github.com/zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
