@@ -39,15 +39,25 @@ RSS and News reader
 
 Install via App Store
 
-## AppCleaner
+## Utilities
+
+### The Unarchiver
+
+uncompress rar files
+
+Get from App Store
+
+### AppCleaner
 
 Tool to uninstall apps on mac
 
 [http://www.freemacsoft.net/](http://www.freemacsoft.net/)
 
-## OnyX
+### OnyX
 
 For Mac maintenance
+
+[www.titanium.free.fr](www.titanium.free.fr)
 
 ## Photoshop
 
