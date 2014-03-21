@@ -96,13 +96,21 @@ import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330
 
 - Emmet
 
-ctrl+shift+p, execute package control
+ctrl+shift+p, execute package control and
 search for emmet
 
 - TrailingSpaces
 
-ctrl+shift+p, execute package control
+ctrl+shift+p, execute package control and
 search for TrailingSpaces
+
+## Git
+
+[http://git-scm.com/](http://git-scm.com/)
+
+## NodeJS
+
+[http://nodejs.org/](http://nodejs.org/)
 
 
 ## Zsh Terminal
