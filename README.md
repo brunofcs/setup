@@ -10,10 +10,15 @@ A simple SSH shortcut menu for OS X
 
 [www.skype.com/](www.skype.com/)
 
+## Armazenamento
 
-## Google Drive
+### Google Drive
 
 [https://drive.google.com/](https://drive.google.com/)
+
+### Dropbox
+
+[https://www.dropbox.com/](https://www.dropbox.com/)
 
 ## Vmware
 
@@ -100,6 +105,11 @@ ctrl+shift+p, execute package control and
 search for emmet
 
 - TrailingSpaces
+
+ctrl+shift+p, execute package control and
+search for TrailingSpaces
+
+- Text Pastry
 
 ctrl+shift+p, execute package control and
 search for TrailingSpaces
