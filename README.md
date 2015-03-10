@@ -114,6 +114,11 @@ search for TrailingSpaces
 ctrl+shift+p, execute package control and
 search for TrailingSpaces
 
+- PlainTasks
+
+ctrl+shift+p, execute package control and
+search for PlainTasks
+
 - Dracula Theme
 
 ctrl+shift+p, execute package control and
