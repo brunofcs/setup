@@ -114,6 +114,14 @@ search for TrailingSpaces
 ctrl+shift+p, execute package control and
 search for TrailingSpaces
 
+- Dracula Theme
+
+ctrl+shift+p, execute package control and
+search for Dracula Theme or Dracula Color Scheme
+
+[https://github.com/zenorocha/dracula-theme](https://github.com/zenorocha/dracula-theme)
+
+
 ## Git
 
 [http://git-scm.com/](http://git-scm.com/)
